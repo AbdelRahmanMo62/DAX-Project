@@ -1,0 +1,10 @@
+# Power BI
+*.pbix
+*.pbit
+
+#logs
+*.log
+
+#OS files
+.DS_store
+Thumbs.db
